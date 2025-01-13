@@ -31,7 +31,7 @@ header {
     color: hsl(0, 0%, 41%);
     display: flex;
     gap: 40px;
-    height: 25%;
+    height: fit-content;
     justify-content: flex-start;
     width: 100%;
 }
